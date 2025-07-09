@@ -1,0 +1,17 @@
+Hi Tuan,
+
+I wanted to inform you that Google Cloud provides a built-in, highly secure data transfer solution for migrating data from Azure Data Lake Storage (ADLS) or Azure Blob Storage to Google Cloud Storage (GCS). The Storage Transfer Service (STS) offers a reliable, fully managed, and code-free approach to streamline data migration without the need for custom development or complex configurations.
+
+Key Benefits of using Storage Transfer Service:
+
+Secure: End-to-end encryption is enforced during transit using TLS 1.3, along with built-in data integrity validation to ensure the data remains intact.
+
+High Performance: STS supports highly parallelized transfers for faster throughput, with automatic retries and load balancing to improve reliability.
+
+Fully Managed: There is no infrastructure to manage or code to maintain, allowing teams to focus on higher-value tasks.
+
+Please find the reference documentation [insert link] for more details.
+
+Let me know if you have any questions or need assistance setting this up.
+
+https://medium.com/google-cloud/how-to-migrate-data-from-azure-storage-account-to-google-cloud-storage-buckets-423905653e31
